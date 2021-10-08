@@ -50,7 +50,25 @@ ground up by yourself.
 ## package.json
 
 ```json
-
+{
+  "name": "vanilla-typescript",
+  "version": "1.0.0",
+  "description": "This project is a kickstart template to built upon your own Vanilla\r TypeScript Project. All the necessary steps to get TypeScript (further\r known as TS) running will be prebuild into the source tree of this\r template.",
+  "main": "index.js",
+  "scripts": {
+    "tsc": "tsc"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tpoth/Vanilla-TypeScript.git"
+  },
+  "author": "Thomas Poth",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/tpoth/Vanilla-TypeScript/issues"
+  },
+  "homepage": "https://github.com/tpoth/Vanilla-TypeScript#readme"
+}
 ```
 
 ## tsconfig.json
