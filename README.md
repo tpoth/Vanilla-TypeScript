@@ -1,9 +1,9 @@
 # Vanilla TypeScript Template
 
-This project is a kickstart template to built upon your own Vanilla TypeScript
-Project. All the necessary steps to get TypeScript (further known as TS) running
-will be prebuild into the source tree of this template. This includes the
-following features.
+This project is a kickstart template to built upon your own Vanilla
+TypeScript Project. All the necessary steps to get TypeScript (further
+known as TS) running will be prebuild into the source tree of this
+template. This includes the following features.
 
 ## Features
 - `README.md`, this file. Can be used to describe your own project.
@@ -17,3 +17,9 @@ following features.
 - npm version ...
 - typescript version ^4.3.5
 - tsc version ...
+
+## package.json
+
+```json
+
+```
