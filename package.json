@@ -1,10 +1,10 @@
 {
   "name": "vanilla-typescript",
   "version": "1.0.0",
-  "description": "This project is a kickstart template to built upon your own Vanilla\r TypeScript Project. All the necessary steps to get TypeScript (further\r known as TS) running will be prebuild into the source tree of this\r template. This includes the following features.",
+  "description": "This project is a kickstart template to built upon your own Vanilla\r TypeScript Project. All the necessary steps to get TypeScript (further\r known as TS) running will be prebuild into the source tree of this\r template.",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "tsc": "tsc"
   },
   "repository": {
     "type": "git",
