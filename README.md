@@ -67,7 +67,10 @@ ground up by yourself.
   "bugs": {
     "url": "https://github.com/tpoth/Vanilla-TypeScript/issues"
   },
-  "homepage": "https://github.com/tpoth/Vanilla-TypeScript#readme"
+  "homepage": "https://github.com/tpoth/Vanilla-TypeScript#readme",
+  "devDependencies": {
+    "typescript": "^4.4.3"
+  }
 }
 ```
 
