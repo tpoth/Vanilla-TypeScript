@@ -49,7 +49,7 @@ ground up by yourself.
 
 ## package.json
 
-```json
+```jsonc
 {
   "name": "vanilla-typescript",
   "version": "1.0.0",
