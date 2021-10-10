@@ -76,7 +76,7 @@ ground up by yourself.
 
 ## tsconfig.json
 
-```json
+```jsonc
 {
   "compilerOptions": {
     /* Visit https://aka.ms/tsconfig.json to read more about this file */
